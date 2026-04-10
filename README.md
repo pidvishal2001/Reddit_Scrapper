@@ -39,7 +39,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/pidvishal2001/Reddit_Scrapper.git
-cd reddit-scrapper
+cd Reddit_Scrapper
 ```
 
 Install dependencies:

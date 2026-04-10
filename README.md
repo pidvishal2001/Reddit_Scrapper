@@ -45,7 +45,7 @@ cd Reddit_Scrapper
 Install dependencies:
 
 ```bash
-pip install requests tqdm
+pip install requests tqdm tkinter
 ```
 
 > ⚠️ `tkinter` usually comes pre-installed with Python.

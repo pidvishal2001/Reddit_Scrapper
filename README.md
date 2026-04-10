@@ -38,7 +38,7 @@ A powerful **multi-threaded Reddit media scraper** built in Python that allows y
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/reddit-scrapper.git
+git clone https://github.com/pidvishal2001/Reddit_Scrapper.git
 cd reddit-scrapper
 ```
 
